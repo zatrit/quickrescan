@@ -1,4 +1,5 @@
-# Lethal Company mod example
+# QuickRescan
+Allows you to quickly rescan items.
 
 ### Compilation from source
 
