@@ -1,0 +1,5 @@
+[*.cs]
+csharp_new_line_before_open_brace = false
+csharp_method_or_operator_body = "expression_body"
+csharp_for_simple_types = "use_var"
+csharp_for_other_types = "use_var"
